@@ -1,0 +1,16 @@
+F:\INFORMATICA\Gru\Gru\bin\Debug\net8.0-windows\Gru.exe
+F:\INFORMATICA\Gru\Gru\bin\Debug\net8.0-windows\Gru.deps.json
+F:\INFORMATICA\Gru\Gru\bin\Debug\net8.0-windows\Gru.runtimeconfig.json
+F:\INFORMATICA\Gru\Gru\bin\Debug\net8.0-windows\Gru.dll
+F:\INFORMATICA\Gru\Gru\bin\Debug\net8.0-windows\Gru.pdb
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\Gru.Form1.resources
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\Gru.csproj.GenerateResource.cache
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\Gru.GeneratedMSBuildEditorConfig.editorconfig
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\Gru.AssemblyInfoInputs.cache
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\Gru.AssemblyInfo.cs
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\Gru.csproj.CoreCompileInputs.cache
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\Gru.dll
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\refint\Gru.dll
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\Gru.pdb
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\Gru.genruntimeconfig.cache
+F:\INFORMATICA\Gru\Gru\obj\Debug\net8.0-windows\ref\Gru.dll
