@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\INFORMATICA\\Gru\\",
+  "WorkspaceRootPath": "C:\\Users\\Cristian\\Desktop\\Gru\\Gru\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|f:\\informatica\\gru\\gru\\gru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|c:\\users\\cristian\\desktop\\gru\\gru\\gru\\gru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|solutionrelative:gru\\gru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|f:\\informatica\\gru\\gru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|c:\\users\\cristian\\desktop\\gru\\gru\\gru\\radiocomando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|solutionrelative:gru\\radiocomando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|c:\\users\\cristian\\desktop\\gru\\gru\\gru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|solutionrelative:gru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|f:\\informatica\\gru\\gru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|C:\\Users\\Cristian\\Desktop\\Gru\\Gru\\gru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2CCC6AC-EDA2-4C1B-AA35-22304B42A1BB}|Gru\\Gru.csproj|solutionrelative:gru\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Gru.cs",
-              "DocumentMoniker": "F:\\INFORMATICA\\Gru\\Gru\\Gru.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Gru\\Gru\\Gru\\Gru.cs",
               "RelativeDocumentMoniker": "Gru\\Gru.cs",
-              "ToolTip": "F:\\INFORMATICA\\Gru\\Gru\\Gru.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Gru\\Gru\\Gru\\Gru.cs",
               "RelativeToolTip": "Gru\\Gru.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0EAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T10:35:47.611Z",
               "EditorCaption": ""
@@ -40,10 +44,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RadioComando.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Gru\\Gru\\Gru\\RadioComando.cs",
+              "RelativeDocumentMoniker": "Gru\\RadioComando.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Gru\\Gru\\Gru\\RadioComando.cs",
+              "RelativeToolTip": "Gru\\RadioComando.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:40:34.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\INFORMATICA\\Gru\\Gru\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Gru\\Gru\\Gru\\Form1.cs",
               "RelativeDocumentMoniker": "Gru\\Form1.cs",
-              "ToolTip": "F:\\INFORMATICA\\Gru\\Gru\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Gru\\Gru\\Gru\\Form1.cs",
               "RelativeToolTip": "Gru\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,15 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Progettazione]",
-              "DocumentMoniker": "F:\\INFORMATICA\\Gru\\Gru\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Gru\\Gru\\Gru\\Form1.cs",
               "RelativeDocumentMoniker": "Gru\\Form1.cs",
               "ToolTip": "F:\\INFORMATICA\\Gru\\Gru\\Form1.cs [Progettazione]",
-              "RelativeToolTip": "Gru\\Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T10:29:06.737Z",
-              "EditorCaption": " [Progettazione]"
+              "WhenOpened": "2024-10-23T10:29:06.737Z"
             }
           ]
         }

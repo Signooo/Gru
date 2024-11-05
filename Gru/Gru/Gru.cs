@@ -53,18 +53,21 @@ namespace Gru
             this.altBra = altBra;
         }
 
-        public void AlzaGru()
+        public void AlzaGru(int metri)
         {
             altBra = altBra++;
         }
-        public void AbbassaGru()
+        public void AbbassaGru(int metri)
         {
             altBra = altBra--;
         }
-        public int Altezza
+        public int GetAltezza()
         {
-            get { return altBra; }
-            set { altBra = value; }
+            return altBra;
+        }
+        public void PosizioneSicura()
+        {
+            altBra = altMin;
         }
     }
 }
